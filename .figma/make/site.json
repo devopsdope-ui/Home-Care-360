@@ -1,0 +1,10 @@
+{
+  "description": "Connects residents with verified home-service technicians, enabling transparent quotes, secure escrow payments, live job tracking, repair evidence, and neighbourhood discounts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
